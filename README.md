@@ -44,5 +44,19 @@ Görsellerin isimleri kullanım amaçlarına göre yeniden adlandırılmıştır
 ## 🚀 Başlangıç
 Projeyi Unity'de açtıktan sonra `Assets/Scenes` altındaki ana sahneyi yükleyerek başlayabilirsiniz. Scriptler otomatik olarak yeni sınıfları tanıyacaktır.
 
+## 🖼 Görseller
+
+Aşağıda oyunun güncel ve modernize edilmiş halinden bazı görüntüler yer almaktadır:
+
+<p align="center">
+  <img src="Screenshots/gameplay_main.png" width="45%" alt="Ana Menü" />
+  <img src="Screenshots/gameplay_action.png" width="45%" alt="Ateşleme" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/gameplay_ui.png" width="45%" alt="Mağaza" />
+  <img src="Screenshots/gameplay_gameover.png" width="45%" alt="Oyun Sonu" />
+</p>
+
 ---
 *Geliştirici Notu: Bu düzenlemeler projenin bakımını kolaylaştırmak ve takım çalışmasına uygun hale getirmek için yapılmıştır.*
