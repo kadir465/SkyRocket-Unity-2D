@@ -1,0 +1,43 @@
+# Unity gitignore
+
+[Library]
+[Temp]
+[Obj]
+[Build]
+[Logs]
+[MemoryCaptures]
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity Auto-generated
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+Assets/AssetStoreTools*
+Assets/Plugins/Android/assets*
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Builds
+# *.exe
+# *.dll
+# *.app
+# *.unitypackage
